@@ -1,5 +1,3 @@
----
-
 # 📘 RMD Calculator & Multi-Year Projection
 
 A lightweight Python tool for calculating **Required Minimum Distributions (RMDs)** from traditional IRAs and projecting future account balances over multiple years.
