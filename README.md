@@ -145,7 +145,6 @@ If you want support for:
 
 * Roth conversions
 * Joint Life Table (spouse >10 years younger)
-* Charts in the Excel sheet
 * Side-by-side multi-scenario projections
 
 …open an issue or request an enhancement.
